@@ -1,0 +1,4 @@
+[submodule "user_data"]
+  path = user_data
+  url = git@github.com:angr1it/freqtrade_data.git
+  branch = main
