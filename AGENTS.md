@@ -2,6 +2,9 @@
 
 **Goal:** Keep this public fork of `freqtrade` clean (no framework changes). All strategy code, notebooks, configs, and helper scripts live in a **private** repository mounted here as a git submodule at `user_data/`.
 
+## Documentation map
+- Core docs quick index: [`docs/index.md`](docs/index.md)
+
 ## Allowed edit areas
 - `user_data/**` — the **only** place for strategies, configs, notebooks, and scripts.
 - Repository meta files:

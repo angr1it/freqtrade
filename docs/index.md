@@ -13,6 +13,55 @@
 
 Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
+## Documentation Index
+
+Jump straight to the guide you need:
+
+### Getting Started
+- [Installation (non-docker)](installation.md)
+- [Docker Quickstart](docker_quickstart.md)
+- [Bot Basics](bot-basics.md)
+- [Bot Usage & CLI Commands](bot-usage.md)
+- [Windows Installation](windows_installation.md)
+
+### Operating the Bot
+- [Configuration Reference](configuration.md)
+- [Telegram Usage](telegram-usage.md)
+- [Web UI / FreqUI](freq-ui.md)
+- [REST API](rest-api.md)
+- [Notifications via Webhooks](webhook-config.md)
+
+### Data & Backtesting
+- [Downloading Market Data](data-download.md)
+- [Backtesting Guide](backtesting.md)
+- [Advanced Backtesting Topics](advanced-backtesting.md)
+- [Plotting & Data Analysis](plotting.md) and [data analysis tips](data-analysis.md)
+
+### Strategy Development
+- [Strategy 101](strategy-101.md) and [Strategy Advanced](strategy-advanced.md)
+- [Strategy Customization](strategy-customization.md)
+- [Strategy Callbacks](strategy-callbacks.md)
+- [Strategy Migration Notes](strategy_migration.md)
+- [Stoploss & Risk Controls](stoploss.md) and [Leverage](leverage.md)
+
+### Optimization & Automation
+- [Hyperopt Overview](hyperopt.md) and [Advanced Hyperopt](advanced-hyperopt.md)
+- [Producer / Consumer Workflows](producer-consumer.md)
+- [Recursive Analysis](recursive-analysis.md) and [Lookahead Analysis](lookahead-analysis.md)
+
+### FreqAI
+- [FreqAI Overview](freqai.md)
+- [Configuration](freqai-configuration.md)
+- [Feature Engineering](freqai-feature-engineering.md)
+- [Running FreqAI](freqai-running.md)
+- [Reinforcement Learning](freqai-reinforcement-learning.md)
+
+### Platform Reference
+- [Exchange Specific Notes](exchanges.md)
+- [Utilities & Helper Commands](utils.md)
+- [Advanced Setup](advanced-setup.md) and [Updating](updating.md)
+- [Plugins](plugins.md) and [Advanced Orderflow](advanced-orderflow.md)
+
 !!! Danger "DISCLAIMER"
     This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
 
