@@ -8,6 +8,7 @@ freqtrade-plot.html
 freqtrade-profit-plot.html
 build_helpers/ta-lib/*
 freqtrade/rpc/api_server/ui/*
+data/
 
 # Macos related
 .DS_Store
